@@ -7,7 +7,7 @@ def gen():
     s2 = string.digits
     s3 = string.punctuation
 
-    passlen = int(input("Enter password length: "))
+    passlen = int(input("Enter password length: "))   # takes input from user
 
     s = []
     s.extend(list(s1))

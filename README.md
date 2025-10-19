@@ -29,4 +29,11 @@ User needs to enter recipient's email and body of the email, then it will sent t
 ## Project 4  
 
 I made an OCR - Image to text.
-This program will extract text from image.
+This program will extract text from image.  
+
+
+
+## Project 5  
+
+Project 5 is a chrome automation program.  
+This program will automatically open all the tabs which I mentioned in our code.

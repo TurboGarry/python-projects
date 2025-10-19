@@ -22,4 +22,11 @@ User can give length of the password and then it will get generated.
 ## Project 3  
 
 I made an Email sender using python.  
-User needs to enter recipient's email and body of the email, then it will sent to receiver.
+User needs to enter recipient's email and body of the email, then it will sent to receiver.  
+
+
+
+## Project 4  
+
+I made an OCR - Image to text.
+This program will extract text from image.

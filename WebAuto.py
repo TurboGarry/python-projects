@@ -8,6 +8,6 @@ def webauto():
         "gmail.com"
     )
     for url in URL:
-        wb.get(chrome_path).open(url)
+        wb.get(chrome_path).open(url)     # Open URLs in Chrome browser
 
 webauto()

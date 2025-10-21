@@ -8,4 +8,11 @@ def speech():
         audio = r.listen(source)
         print("Done.")
     
+    try:
+        text = r.recognize_google(audio)
+        print("You Said : " + text)
     
+    except Exception as Ep:
+        print(Ep)
+
+speech()

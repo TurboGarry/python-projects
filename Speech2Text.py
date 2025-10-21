@@ -1,7 +1,11 @@
 import pyttsx3
+import speech_recognition as sr
 
-data = input("Enter the text you want to convert to speech: \n")
-
-engine = pyttsx3.init()
-engine.say(data)
-engine.runAndWait()
+def speech():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("Say something.....")
+        audio = r.listen(source)
+        print("Done.")
+    
+    

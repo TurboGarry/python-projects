@@ -36,4 +36,11 @@ This program will extract text from image.
 ## Project 5  
 
 Project 5 is a chrome automation program.  
-This program will automatically open all the tabs which I mentioned in our code.
+This program will automatically open all the tabs which I mentioned in our code.  
+
+
+
+## Project 6  
+
+Project 6 is a text to speech conversion program.  
+This program will convert the text given by the user into speech.

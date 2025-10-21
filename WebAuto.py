@@ -11,3 +11,4 @@ def webauto():
         subprocess.Popen([chrome_path, url])
 
 webauto()
+

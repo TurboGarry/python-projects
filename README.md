@@ -43,4 +43,11 @@ This program will automatically open all the tabs which I mentioned in our code.
 ## Project 6  
 
 Project 6 is a text to speech conversion program.  
-This program will convert the text given by the user into speech.
+This program will convert the text given by the user into speech.  
+
+
+
+## Project 7  
+
+Project 7 is a speech to text conversion program.  
+This Program will convert speech to text and return speech as string.  

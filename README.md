@@ -51,3 +51,10 @@ This program will convert the text given by the user into speech.
 
 Project 7 is a speech to text conversion program.  
 This Program will convert speech to text and return speech as string.  
+
+
+
+## Project 8  
+
+Project 8 is a webcam program.  
+user can capture their image using webcam.

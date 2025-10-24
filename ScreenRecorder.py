@@ -13,10 +13,11 @@ def ScreenRecorder():
         cv2.imshow("Screen Recorder", frame)
         out.write(frame)
 
+        # Press ESC to stop recording
         if cv2.waitKey(1) == 27:
             break
 
     out.release()
-    cv2.destroyAllWindows()
+    cv2.destroyAllWindows()  
 
 ScreenRecorder()

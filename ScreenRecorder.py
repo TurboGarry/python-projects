@@ -17,6 +17,6 @@ def ScreenRecorder():
             break
 
     out.release()
-    cv2.destroyAllwindows()
+    cv2.destroyAllWindows()
 
 ScreenRecorder()

@@ -61,6 +61,13 @@ user can capture their image using webcam.
 
 
 
-## Project 8  
+## Project 9  
   
 Project 9 is a Screen Recorder program.  
+
+
+
+## Project 10  
+
+Project 10 is a Face Detection app.  
+It can detect upto 4 faces.

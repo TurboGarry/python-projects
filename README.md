@@ -70,4 +70,11 @@ Project 9 is a Screen Recorder program.
 ## Project 10  
 
 Project 10 is a Face Detection app.  
-It can detect upto 4 faces.
+It can detect upto 4 faces.  
+  
+
+
+## Project 11  
+
+Project 11 is a weather app.  
+you can get weather temperature of any city.  

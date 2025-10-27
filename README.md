@@ -78,3 +78,10 @@ It can detect upto 4 faces.
 
 Project 11 is a weather app.  
 you can get weather temperature of any city.  
+
+
+
+## Project 12  
+  
+Project 12 is url shortener.  
+User can give url and it will get shorten.  
